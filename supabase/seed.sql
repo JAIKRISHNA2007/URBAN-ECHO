@@ -1,0 +1,3 @@
+-- Foundation only. Add fictional villages and test users in the same reviewed
+-- change as the canonical database migration. Never place real identities,
+-- contact details, credentials, or pilot data in this file.

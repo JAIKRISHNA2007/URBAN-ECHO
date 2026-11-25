@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="APP_NAME">
+  <rect width="512" height="512" rx="96" fill="#176B4D"/>
+  <path fill="#fff" d="M256 88c-81 0-146 65-146 146 0 111 146 222 146 222s146-111 146-222c0-81-65-146-146-146Zm0 212a66 66 0 1 1 0-132 66 66 0 0 1 0 132Z"/>
+  <path fill="#E7F1EC" d="M232 214h48v96h-48z"/>
+</svg>
